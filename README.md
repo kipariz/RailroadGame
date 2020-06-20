@@ -7,3 +7,6 @@ You will need this to run it:
 * [pyxel](https://github.com/kitao/pyxel)  
 
 
+By now it's look something like this:
+
+![demo picture](https://github.com/kipariz/RailroadGame/blob/master/res/demo.png?raw=true)
